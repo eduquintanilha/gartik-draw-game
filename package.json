@@ -1,0 +1,17 @@
+{
+  "name": "gartic-like",
+  "version": "1.0.0",
+  "description": "Gartic Game like for learning Canvas + Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gartic",
+    "game",
+    "socket",
+    "canvas"
+  ],
+  "author": "@Eduard0x6f",
+  "license": "ISC"
+}
