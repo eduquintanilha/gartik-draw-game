@@ -7,7 +7,7 @@
 
 ### Actual status image
 
-![Draw board image](https://raw.githubusercontent.com/Eduard0x6F/gartik-draw-game/main/draw-board-gartik.png "Draw board")
+![Draw board image](https://raw.githubusercontent.com/Eduard0x6F/gartik-draw-game/main/src/draw-board-gartik.png "Draw board")
 
 
 
